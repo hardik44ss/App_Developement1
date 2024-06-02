@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color greenNm
+color redOW
+color white
+color yellowUW
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnCalc
+id edtHeightFt
+id edtHeightIn
+id edtWeight
+id main
+id txtResult
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string calculate_bmi
+string enter_your_height_in_ft
+string enter_your_height_in_inch
+string enter_your_weight
+string normal
+string overweight
+string result
+string underweight
+style Base.Theme.Proj3_java
+style Theme.Proj3_java
+xml backup_rules
+xml data_extraction_rules

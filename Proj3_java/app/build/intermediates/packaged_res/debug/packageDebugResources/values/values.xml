@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="greenNm">#43A047</color>
+    <color name="redOW">#E53935</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellowUW">#C0CA33</color>
+    <string name="app_name">Proj3_java</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="enter_your_height_in_ft">Enter your Height(in Ft)</string>
+    <string name="enter_your_height_in_inch">Enter your Height(in Inch)</string>
+    <string name="enter_your_weight">Enter your weight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">OverWeight</string>
+    <string name="result">Result</string>
+    <string name="underweight">UnderWeight</string>
+    <style name="Base.Theme.Proj3_java" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Proj3_java" parent="Base.Theme.Proj3_java"/>
+</resources>
