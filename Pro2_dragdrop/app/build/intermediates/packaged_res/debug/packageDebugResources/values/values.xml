@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="ABout_me" translatable="false">Hello World , I am Hardik Suthar</string>
+    <string name="FG_img">Foreground_Image</string>
+    <string name="User_image">User_Image</string>
+    <string name="app_name">project</string>
+    <string name="input_text">Enter your Name </string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <style name="Base.Theme.Pro2_dragdrop" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Pro2_dragdrop" parent="Base.Theme.Pro2_dragdrop"/>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Proj3_java</string>
+    <string name="enter_your_weight">Enter your weight</string>
+    <string name="enter_your_height_in_ft">Enter your Height(in Ft)</string>
+    <string name="enter_your_height_in_inch">Enter your Height(in Inch)</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="result">Result</string>
+    <string name="overweight">OverWeight</string>
+    <string name="underweight">UnderWeight</string>
+    <string name="normal">Normal</string>
+</resources>
